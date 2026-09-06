@@ -1,0 +1,5 @@
+[project]
+name = "notes-cli"
+version = "0.1.0"
+description = "Tiny CLI that prints or creates a notes file. Learning-in-public."
+requires-python = ">=3.10"
